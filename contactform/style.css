@@ -15,28 +15,28 @@ body {
 form {
     background-color: rgb(251, 251, 250);
     border: 3px solid rgb(237, 236, 232);
-    border-radius: 10px;    /*角丸*/
+    border-radius: 10px;
     padding: 15px;
 } 
 input.textBox {
-    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
-    border-radius: 3px;    /*角丸*/
+    border: 1px solid rgb(173, 170, 170);
+    border-radius: 3px;
 }
 .age_Box {  
-    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
+    border: 1px solid rgb(173, 170, 170);
     height: 25px;
-    border-radius: 3px;    /*角丸*/
+    border-radius: 3px;
 }
 #comments {
-    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
-    border-radius: 3px;    /*角丸*/
+    border: 1px solid rgb(173, 170, 170);
+    border-radius: 3px;
 }
 .submit {
     background-color: rgb(153, 150, 150);
     height: 25px;
     border: none;
-    border-bottom: 4px solid rgb(109, 105, 105);  /*入力欄の外枠の色を変更*/
-    border-radius: 3px;    /*角丸*/
+    border-bottom: 4px solid rgb(109, 105, 105);
+    border-radius: 3px;
     color: white;
 }
 .submit:hover {
