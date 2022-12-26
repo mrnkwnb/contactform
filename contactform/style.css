@@ -1,0 +1,44 @@
+body {
+    font-family: "メイリオ",sans-serif;
+}
+.form_section {
+    margin: 40px;
+    width: 400px;
+}
+.form_section h1 {  
+    background-color: rgb(237, 236, 232);
+    font-size: 21px;
+    line-height: 2;
+    border-left: 4px solid red;
+    padding-left: 1rem;
+}
+form {
+    background-color: rgb(251, 251, 250);
+    border: 3px solid rgb(237, 236, 232);
+    border-radius: 10px;    /*角丸*/
+    padding: 15px;
+} 
+input.textBox {
+    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
+    border-radius: 3px;    /*角丸*/
+}
+.age_Box {  
+    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
+    height: 25px;
+    border-radius: 3px;    /*角丸*/
+}
+#comments {
+    border: 1px solid rgb(173, 170, 170);   /*入力欄の外枠の色を変更*/
+    border-radius: 3px;    /*角丸*/
+}
+.submit {
+    background-color: rgb(153, 150, 150);
+    height: 25px;
+    border: none;
+    border-bottom: 4px solid rgb(109, 105, 105);  /*入力欄の外枠の色を変更*/
+    border-radius: 3px;    /*角丸*/
+    color: white;
+}
+.submit:hover {
+    background-color: rgb(125, 122, 122);
+}
